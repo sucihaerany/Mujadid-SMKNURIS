@@ -1,0 +1,2 @@
+# UCIK-SMKNURIS
+web
